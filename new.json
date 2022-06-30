@@ -1,4 +1,6 @@
-Victoria Valt
-20 y.o.
-0 pets
-min - 1000$
+{
+"first and lastname": "Victoria Valt",
+"age": "20 y.o.",
+"count pets": "0",
+"salary": "1000$"
+}
